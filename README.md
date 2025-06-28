@@ -43,10 +43,7 @@
 
 <br/>
 
-<h2 align="center">🧠 LeetCode Progress</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/82PareshPatil?theme=dark&font=Nunito&ext=heatmap" width="400" />
-</p>
+
 
 ---
 
